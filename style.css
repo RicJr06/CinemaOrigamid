@@ -1,4 +1,6 @@
 .titulo {
+    /* background é o fundo de uma tal tag, onde pode ser alterado sua cor*/
+    background-color: black;
     color: red;
     font-family:Arial, Helvetica, sans-serif;
 }
